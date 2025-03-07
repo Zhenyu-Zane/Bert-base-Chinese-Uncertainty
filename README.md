@@ -28,7 +28,7 @@ In many documents, identifying uncertain statements is crucial for decision-maki
 
 ## Dataset
 
-The training data for this project is sourced from the [Chinese Hedges and their Scope Corpus](https://github.com/DUT-NLP/CHScope). Specifically, the model has been fine-tuned using annotated data from the following corpora:
+The training data for this project is sourced from the [Chinese Hedges and their Scope Corpus](https://github.com/DUT-NLP/CHScope) (周惠巍等，2015). Specifically, the model has been fine-tuned using annotated data from the following corpora:
 
 - **BioScope** (Vincze et al., 2008)
 - **WikiWeasel** (Farkas et al., 2010)
