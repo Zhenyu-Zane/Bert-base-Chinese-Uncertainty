@@ -48,7 +48,7 @@ For usage examples, please refer to the [`Bert-Base-Chinese-Uncertainty-demo.py`
 This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
 You are free to share and adapt the material for non-commercial purposes only, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. For any commercial use, please contact the repository owner.
 
-For more details, please see the [LICENSE](./LICENSE) file.
+For more details, please see the [LICENSE](./LICENSE.txt) file.
 
 ## References
 
