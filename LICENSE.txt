@@ -1,0 +1,19 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+By exercising the Licensed Rights (defined below), you accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, the Licensor gives You the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
+Section 1 – Definitions.
+
+a. "Adapted Material" means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.
+b. "Licensed Material" means the repository content in this project.
+c. "Licensed Rights" means the rights granted to You subject to the terms and conditions of this Public License.
+
+Section 2 – Scope.
+
+The Licensed Rights are for the term of Copyright and Similar Rights that apply to the Licensed Material, subject to the license terms described herein.
+
+Section 3 – License Grant.
+
+Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material for NonCommercial purposes only.
+
+[The full text of the CC BY-NC 4.0 license is available at https://creativecommons.org/licenses/by-nc/4.0/]
